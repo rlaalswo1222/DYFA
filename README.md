@@ -1,4 +1,4 @@
-# Did You Finish Your Homework?
+# Did You Finish your Assignment?
 
 > **과제 마감, 이제 까먹지 마세요.**
 > 충북대학교 블랙보드에 올라온 과제의 마감이 다가오면 Slack 메시지로 알려 주는 프로그램입니다.
